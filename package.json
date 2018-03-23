@@ -1,0 +1,26 @@
+{
+  "name": "botitas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "botitas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zenkly/botitas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zenkly/botitas/issues"
+  },
+  "homepage": "https://github.com/Zenkly/botitas#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "moment": "^2.21.0",
+    "request": "^2.85.0",
+    "steem": "^0.7.1"
+  }
+}
